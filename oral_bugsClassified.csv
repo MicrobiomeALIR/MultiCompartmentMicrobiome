@@ -1,0 +1,132 @@
+,Genus,O2Req,OralorRespiratoryPath
+1,Abiotrophia,Facultative anaerobe,
+2,Absconditabacteriales_SR1_ge,Unclassifiable,NA
+3,Acinetobacter,Aerobe,Pathogenic
+4,Actinobacillus,Facultative anaerobe,
+5,Actinobacteria_uncl,Unclassifiable,NA
+6,Actinomyces,Facultative anaerobe,
+7,Actinomycetaceae_uncl,Variable,
+8,Aggregatibacter,Facultative anaerobe,
+9,Alloprevotella,Anaerobe,Oral
+10,Alloscardovia,Anaerobe,
+11,Anaerococcus,Anaerobe,
+12,Anaeroglobus,Anaerobe,
+13,Anaerovoracaceae_ge,Anaerobe,
+14,Anaerovoracaceae_uncl,Anaerobe,NA
+15,Anaerovoracaceae_Uncltrd,Anaerobe,
+16,Atopobium,Variable,
+17,Bacilli_uncl,Unclassifiable,NA
+18,Bacteria_uncl,Unclassifiable,NA
+19,Bacteroidales_uncl,Anaerobe,
+20,Bacteroides,Anaerobe,
+21,Bacteroidia_uncl,Unclassifiable,NA
+22,Bergeyella,Aerobe,
+23,Bifidobacteriaceae_uncl,Variable,
+24,Bifidobacterium,Anaerobe,
+25,Bilophila,Anaerobe,NA
+26,Blautia,Anaerobe,
+27,Bulleidia,Anaerobe,
+28,Burkholderiales_uncl,Aerobe,NA
+29,Butyrivibrio,Anaerobe,NA
+30,Campylobacter,Microaerophile,
+31,Capnocytophaga,Facultative anaerobe,Oral
+32,Cardiobacterium,Aerobe,NA
+33,Carnobacteriaceae_uncl,Unclassifiable,NA
+34,Catonella,Anaerobe,
+35,Centipeda,Anaerobe,
+36,Chloroplast_ge,Unclassifiable,NA
+37,Clostridia_UCG_014_ge,Anaerobe,
+38,Clostridia_uncl,Unclassifiable,NA
+39,Clostridia_vadinBB60_grp_ge,Anaerobe,
+40,Comamonadaceae_uncl,Variable,
+41,Comamonas,Aerobe,NA
+42,Conchiformibius,Unclassifiable,NA
+43,Corynebacteriaceae_uncl,Unclassifiable,NA
+44,Corynebacteriales_uncl,Unclassifiable,NA
+45,Corynebacterium,Variable,
+46,Cryptobacterium,Anaerobe,NA
+47,Defluviitaleaceae_UCG_011,Unclassifiable,NA
+48,Desulfobulbus,Anaerobe,
+49,Dialister,Variable,
+50,Dolosigranulum,Facultative anaerobe,
+51,Eggerthia,Anaerobe,NA
+52,Enterobacteriaceae_uncl,Facultative anaerobe,Pathogenic
+53,Enterococcus,Facultative anaerobe,Pathogenic
+54,Erysipelotrichaceae_UCG_006,Variable,
+55,Escherichia_Shigella,Facultative anaerobe,Pathogenic
+56,F0058,Anaerobe,
+57,F0332,Variable,
+58,Family_XIII_UCG_001,Unclassifiable,NA
+59,Filifactor,Anaerobe,
+60,Finegoldia,Anaerobe,
+61,Firmicutes_uncl,Variable,
+62,Flexilinea,Unclassifiable,NA
+63,Fretibacterium,Anaerobe,
+64,Fusobacterium,Anaerobe,Oral
+65,Gammaproteobacteria_uncl,Variable,
+66,Gemella,Facultative anaerobe,Oral
+67,Granulicatella,Facultative anaerobe,Oral
+68,Haemophilus,Facultative anaerobe,Oral
+69,Howardella,Anaerobe,
+70,Johnsonella,Anaerobe,
+71,Kingella,Variable,
+72,Lachnoanaerobaculum,Anaerobe,
+73,Lachnospiraceae_uncl,Anaerobe,
+74,Lactobacillales_uncl,Unclassifiable,NA
+75,Lactobacillus,Facultative anaerobe,
+76,Lautropia,Facultative anaerobe,
+77,Lawsonella,Anaerobe,
+78,Lentimicrobium,Anaerobe,
+79,Leptotrichia,Variable,Oral
+80,Methylobacterium_Methylorubrum,Aerobe,
+81,Micrococcales_uncl,Unclassifiable,NA
+82,Mobiluncus,Anaerobe,NA
+83,Mogibacterium,Anaerobe,
+84,Moryella,Anaerobe,NA
+85,Muribaculaceae_ge,Unclassifiable,NA
+86,Mycoplasma,Variable,
+87,Neisseria,Aerobe,Oral
+88,Neisseriaceae_uncl,Variable,
+89,Olsenella,Anaerobe,
+90,Oribacterium,Anaerobe,
+91,Parvimonas,Anaerobe,
+92,Pasteurellaceae_uncl,Facultative anaerobe,
+93,Peptoanaerobacter,Anaerobe,NA
+94,Peptococcus,Anaerobe,
+95,Peptoniphilus,Anaerobe,
+96,Peptostreptococcaceae_ge,Anaerobe,NA
+97,Peptostreptococcus,Anaerobe,
+98,Phocaeicola,Anaerobe,
+99,Porphyromonas,Anaerobe,
+100,Prevotella,Anaerobe,Oral
+101,Prevotellaceae_uncl,Anaerobe,Oral
+102,Prevotellaceae_Uncltrd,Anaerobe,NA
+103,Pseudomonas,Aerobe,Pathogenic
+104,Pseudoramibacter,Anaerobe,
+105,RF39_ge,Unclassifiable,NA
+106,Rikenellaceae_RC9_gut_grp,Anaerobe,
+107,Rothia,Variable,Oral
+108,Saccharimonadaceae_ge,Unclassifiable,NA
+109,Saccharimonadaceae_uncl,Unclassifiable,NA
+110,Saccharimonadales_ge,Unclassifiable,NA
+111,Scardovia,Anaerobe,
+112,Selenomonadaceae_uncl,Unclassifiable,NA
+113,Selenomonadaceae_Uncltrd,Unclassifiable,NA
+114,Selenomonas,Variable,Oral
+115,Shuttleworthia,Anaerobe,
+116,Slackia,Anaerobe,NA
+117,Sneathia,Anaerobe,
+118,Solobacterium,Anaerobe,
+119,Staphylococcaceae_uncl,Facultative anaerobe,NA
+120,Staphylococcus,Facultative anaerobe,Pathogenic
+121,Stomatobaculum,Anaerobe,
+122,Streptococcaceae_uncl,Facultative anaerobe,
+123,Streptococcus,Facultative anaerobe,Oral
+124,Tannerella,Anaerobe,
+125,TM7x,Unclassifiable,NA
+126,Treponema,Variable,
+127,Veillonella,Anaerobe,Oral
+128,Veillonellaceae_ge,Anaerobe,
+129,Veillonellaceae_uncl,Anaerobe,
+130,Veillonellales_Selenomonadales_uncl,Unclassifiable,NA
+131,Xanthobacteraceae_uncl,Aerobe,
