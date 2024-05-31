@@ -7,3 +7,4 @@ Multicompartment Study of Host-Microbiome Interactions in Critical Illness
 # Deidentified data are provided as csv or xlsx files. 
 # We recommend running the code in chuncks and in the order provided - some of the analyses take long running time (e.g. clustering or joint modeling bootstrapped confidence interval estimations), which may lead to unintended interruptions of R sessions depending on available memory/capacity. 
 
+#### Manuscript accepted for Publication in Nature Communications as of 5.31.24
